@@ -1,16 +1,25 @@
-# firebase_local_auth
+<h1 align="center" id="title">Flutter Local Authentication</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/rohankarn35/flutter_local_auth/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-## Getting Started
+<p id="description">Local Authentication Package which uses the local authentication method.</p>
 
-This project is a starting point for a Flutter application.
+<h2>🛠️ Installation Steps:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<p>1. Clone</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+git clone https://github.com/rohankarn35/flutter_local_auth
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>2. Install the packages</p>
+
+```
+flutter pub get
+```
+
+<p>3. Visit the local_auth package page</p>
+
+```
+https://pub.dev/packages/local_auth
+```
